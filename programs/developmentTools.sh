@@ -8,7 +8,7 @@ sudo apt-get install sublime-text
 echo "---------installing vim----------"
 sudo apt-get install vim 
 
-#Compilator
+#Compiler
 echo "---------installing g++----------"
 sudo apt-get install g++
 
